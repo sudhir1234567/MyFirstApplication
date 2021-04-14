@@ -1,0 +1,4 @@
+account_number,account_type,country_code,currency_code,department_number,document_currency_cost,document_date,document_header_txt,document_information,file_arrival_datetime,group_business_unit,division_number,id,post_date,_c14,retail_amount,unique_id
+1306010,G,US,USD,1,8.0,20200930,SAMPLE,,2020/10/01T04:00:00:000,6378,482,null,187698,,0.0,128
+1306010,G,US,USD,1,8.0,20200930,SAMPLE,,2020/10/01T04:00:00:000,6378,482,null,187698,,0.0,220
+1306010,G,,,78,,,,,null,6378,18,null,20200928,,0.0,228
