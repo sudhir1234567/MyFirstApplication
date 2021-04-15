@@ -6,7 +6,7 @@ object Main extends App {
       .master("local[4]")
       .appName("MyApplication")
       .getOrCreate()
-
+ now i am pulling this particular file on my local repository...!!
 
 
 /* related to csv to orc conversion */
